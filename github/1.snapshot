@@ -6,7 +6,7 @@
     "flowSnapshot" : {
       "externalControllerServices" : { },
       "flowContents" : {
-        "comments" : "",
+        "comments" : "add:12.03",
         "componentType" : "PROCESS_GROUP",
         "connections" : [ ],
         "controllerServices" : [ ],

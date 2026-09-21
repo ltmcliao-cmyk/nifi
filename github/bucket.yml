@@ -1,0 +1,12 @@
+flows:
+  308977b2-7106-4426-91a7-ff3e9c604ed5:
+    ver: 2
+    file: test.snapshot
+    comments: |
+      add:10.59
+    author: anonymous
+    created: 1789959592741
+    flowName: test
+    flowDesc: ''
+layoutVer: 1
+bucketId: 96a37eb1-cb2f-4e4c-bc4f-e0b63bcd8d4b

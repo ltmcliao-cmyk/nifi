@@ -1,13 +1,4 @@
 flows:
-  308977b2-7106-4426-91a7-ff3e9c604ed5:
-    ver: 2
-    file: test.snapshot
-    comments: |
-      add:10.59
-    author: anonymous
-    created: 1789959592741
-    flowName: test
-    flowDesc: ''
   2e2d3dde-d34a-4901-8cba-9fe0a0024af8: {ver: 2, file: github.snapshot, comments: 'add:11.54',
     author: anonymous, created: 1789962885986, flowName: github, flowDesc: ''}
 layoutVer: 1
